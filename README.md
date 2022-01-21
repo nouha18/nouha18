@@ -19,4 +19,3 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nouha18)](https://github.com/nouha18/github-readme-stats)
