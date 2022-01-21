@@ -14,4 +14,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouha18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouha18&layout=demo)](https://github.com/nouhaa18/github-readme-stats)
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nouha18)](https://github.com/nouha18/github-readme-stats)
