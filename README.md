@@ -5,7 +5,7 @@
  ⚡ Fun fact: don't copy past without undrestand what's the code is about.
 
 ##🌱 I’m currently learning new features with nextjs, react native and many other new ### to come.
-### My Youtube Channel Nouha Mbarek
+                               ### My Youtube Channel :Nouha Mbarek
                                    
                                    
                                    ******************************
