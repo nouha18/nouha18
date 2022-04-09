@@ -10,8 +10,7 @@
 
                                ### My Youtube Channel :Nouha Mbarek
                                
-          ![recrutement](https://user-images.githubusercontent.com/43494970/162568052-91f43a80-9b7f-4176-92c1-785ac2fc6d4b.png)
-
+      
           
                                        ******************************
  
