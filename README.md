@@ -10,10 +10,10 @@
 
                                ### My Youtube Channel :Nouha Mbarek
                                
-                                   
-                                   ![nouha](https://user-images.githubusercontent.com/43494970/162567925-a3ac5a07-49ea-47b1-bc84-4cea83d3fbc2.jpg)
+                    
+                    ![tenor](https://user-images.githubusercontent.com/43494970/162567991-e99ec89f-26f6-4455-96da-6aa24c09b1e7.gif)
 
-                                   ******************************
+                                     ******************************
  
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nouha18&theme=chartreuse-dark&show_icons=true)
