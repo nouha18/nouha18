@@ -4,7 +4,7 @@
 
         *** Portfolio : https://create-react-6qw46l2r2-nouha18.vercel.app/
 
- ⚡ Fun fact: don't copy past without undrestand what's the code is about.
+ ⚡ Fun fact: don't copy past without undrestanding  what's the code is about.
 
 ##🌱 I’m currently learning new features with nextjs,IA,react,angular,nodejs, react native and many other new crossframework ### to be published.
 ### ⚡ As part of the program, i'm basically preparing new features with Microsoft 365 business central development and Excel js REST API.  
