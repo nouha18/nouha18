@@ -6,7 +6,7 @@
 
 
 
-##Card Info ⚡: npm install @kitdevteam/nouha-card@1.0.0 
+###  Card Info ⚡: npm install @kitdevteam/nouha-card@1.0.0 
 
  ⚡ Fun fact: don't copy past without undrestanding  what's the code is about.
 
