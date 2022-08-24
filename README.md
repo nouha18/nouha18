@@ -2,8 +2,8 @@
 ##Nouha Github account feel free to use projects as we know the more we share the more we learn.
 ## 📫 How to reach me: nouha.mbarek7@gmail.com, Always Available.
 
-        *** Portfolio : https://create-react-6qw46l2r2-nouha18.vercel.app/
-        ##Card Info : npm install @kitdevteam/nouha-card@1.0.0 
+*** Portfolio : https://create-react-6qw46l2r2-nouha18.vercel.app/
+##Card Info : npm install @kitdevteam/nouha-card@1.0.0 
 
  ⚡ Fun fact: don't copy past without undrestanding  what's the code is about.
 
