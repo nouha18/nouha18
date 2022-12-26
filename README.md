@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ##Nouha Github account feel free to use projects as we know the more we share the more we learn.
-## 📫 How to reach me: nouha.mbarek7@gmail.com, Always Available.
+## 📫 How to reach me: By Email or Skype/Zoom/Teams, Always Available.
 
 ***  Portfolio : [https://nouha-portfolio-xw5w.vercel.app/](https://nouha-portfolio-xw5w.vercel.app/)
 
