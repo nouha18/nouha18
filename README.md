@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ##Nouha Github account feel free to use projects as we know the more we share the more we learn.
-## 📫 How to reach me: By Email or Skype/Zoom/Teams,24h/24h 7j/7j Available.
+## 📫 How to reach me: By Email or Skype/Zoom/Teams.
 
 ***  Portfolio : [https://nouha-portfolio-xw5w.vercel.app/](https://nouha-portfolio-xw5w.vercel.app/)
 
