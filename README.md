@@ -25,10 +25,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouha18&layout=demo)](https://github.com/nouha18/github-readme-stats)
-
-
 ###
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nouha18)](https://github.com/nouha18/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nouha18)](https://github.com/nouha18/nouha18/github-readme-stats)
 
